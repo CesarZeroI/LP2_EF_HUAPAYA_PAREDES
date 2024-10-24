@@ -10,4 +10,7 @@ public class Lp2EfHuapayaParedesCesarApplication {
 		SpringApplication.run(Lp2EfHuapayaParedesCesarApplication.class, args);
 	}
 
+	
+	
+	
 }
